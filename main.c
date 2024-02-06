@@ -7,7 +7,7 @@
 
 	Para ejecutarlo y recolectar los datos, emplee el comando
 
-	$ time ./transposicion
+	$ time ./main
 
 */
 
